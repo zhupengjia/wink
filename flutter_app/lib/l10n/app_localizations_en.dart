@@ -123,7 +123,7 @@ class L10nEn extends L10n {
   String get noConversations => 'No conversations yet';
 
   @override
-  String get startDiscovering => 'Start discovering people in the cosmos!';
+  String get startDiscovering => 'Explore and meet fascinating companions!';
 
   @override
   String get language => 'Language';
@@ -201,7 +201,7 @@ class L10nEn extends L10n {
   String get welcomeTitle => 'Welcome to Wink';
 
   @override
-  String get welcomeSubtitle => 'Discover souls in the cosmos';
+  String get welcomeSubtitle => 'Every wink sparks a connection';
 
   @override
   String get loginWithGoogle => 'Continue with Google';

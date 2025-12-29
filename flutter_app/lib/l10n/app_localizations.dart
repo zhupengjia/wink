@@ -298,7 +298,7 @@ abstract class L10n {
   /// No description provided for @startDiscovering.
   ///
   /// In en, this message translates to:
-  /// **'Start discovering people in the cosmos!'**
+  /// **'Explore and meet fascinating companions!'**
   String get startDiscovering;
 
   /// No description provided for @language.
@@ -454,7 +454,7 @@ abstract class L10n {
   /// No description provided for @welcomeSubtitle.
   ///
   /// In en, this message translates to:
-  /// **'Discover souls in the cosmos'**
+  /// **'Every wink sparks a connection'**
   String get welcomeSubtitle;
 
   /// No description provided for @loginWithGoogle.

@@ -123,7 +123,7 @@ class L10nZh extends L10n {
   String get noConversations => '还没有对话';
 
   @override
-  String get startDiscovering => '开始在星空中发现新朋友吧！';
+  String get startDiscovering => '探索并遇见有趣的伙伴！';
 
   @override
   String get language => '语言';
@@ -201,7 +201,7 @@ class L10nZh extends L10n {
   String get welcomeTitle => '欢迎来到微客';
 
   @override
-  String get welcomeSubtitle => '在星空中发现灵魂';
+  String get welcomeSubtitle => '每一次眨眼，都是新的邂逅';
 
   @override
   String get loginWithGoogle => '使用 Google 登录';

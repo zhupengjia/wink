@@ -1,7 +1,7 @@
 # Wink Project Instructions
 
 ## Project Overview
-Wink (微客) is a global social app with 3D Soul-like discovery and AI Virtual Persons. The project consists of:
+Wink (微客) is a global social app to meet AI companions and make meaningful connections. The project consists of:
 - **Flutter App** (`flutter_app/`) - Cross-platform mobile/web client (iOS, Android, Web)
 - **Go Backend** (`backend/`) - API server with Gin framework
 - **Supabase** (`supabase/`) - Database and authentication
