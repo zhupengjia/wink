@@ -1,0 +1,37 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/bin/
+backend/tmp/
+backend/coverage.*
+
+# Flutter
+flutter_app/.dart_tool/
+flutter_app/.packages
+flutter_app/build/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.metadata
+flutter_app/*.iml
+flutter_app/pubspec.lock
+
+# Supabase volumes (runtime data)
+supabase/volumes/storage/*
+!supabase/volumes/storage/.gitkeep
+supabase/volumes/db/data/
+
+# Docker
+*.log

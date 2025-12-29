@@ -1,0 +1,104 @@
+{
+  "@@locale": "en",
+  "appName": "Wink",
+  "discover": "Discover",
+  "chat": "Chat",
+  "profile": "Profile",
+  "square": "Square",
+  "settings": "Settings",
+
+  "startChat": "Start Chat",
+  "typeMessage": "Type a message...",
+  "send": "Send",
+  "sending": "Sending...",
+  "messageSent": "Message sent",
+  "messageError": "Failed to send message",
+
+  "typing": "typing...",
+  "online": "Online",
+  "offline": "Offline",
+  "lastSeen": "Last seen {time}",
+  "@lastSeen": {
+    "placeholders": {
+      "time": {"type": "String"}
+    }
+  },
+
+  "photoOption": "Photo",
+  "videoOption": "Video",
+  "voiceOption": "Voice",
+  "cameraOption": "Camera",
+  "galleryOption": "Gallery",
+
+  "intimacyStranger": "Stranger",
+  "intimacyAcquaintance": "Acquaintance",
+  "intimacyFriend": "Friend",
+  "intimacyClose": "Close",
+  "intimacyIntimate": "Intimate",
+
+  "intimacyGain": "+{points}",
+  "@intimacyGain": {
+    "placeholders": {
+      "points": {"type": "int"}
+    }
+  },
+
+  "intimacyLevel": "Intimacy: {level}",
+  "@intimacyLevel": {
+    "placeholders": {
+      "level": {"type": "String"}
+    }
+  },
+
+  "aiLabel": "AI",
+  "virtualPerson": "Virtual Person",
+
+  "messageCount": "{count, plural, =0{No messages} =1{1 message} other{{count} messages}}",
+  "@messageCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "newConversation": "New Conversation",
+  "noConversations": "No conversations yet",
+  "startDiscovering": "Start discovering people in the cosmos!",
+
+  "language": "Language",
+  "english": "English",
+  "chinese": "中文",
+
+  "darkMode": "Dark Mode",
+  "notifications": "Notifications",
+  "privacy": "Privacy",
+  "about": "About",
+  "logout": "Logout",
+
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "save": "Save",
+  "delete": "Delete",
+  "edit": "Edit",
+  "done": "Done",
+  "next": "Next",
+  "back": "Back",
+  "close": "Close",
+  "retry": "Retry",
+
+  "loading": "Loading...",
+  "error": "Error",
+  "noResults": "No results found",
+  "pullToRefresh": "Pull to refresh",
+
+  "today": "Today",
+  "yesterday": "Yesterday",
+
+  "welcomeTitle": "Welcome to Wink",
+  "welcomeSubtitle": "Discover souls in the cosmos",
+
+  "loginWithGoogle": "Continue with Google",
+  "loginWithApple": "Continue with Apple",
+  "loginWithEmail": "Continue with Email",
+
+  "termsAndPrivacy": "By continuing, you agree to our Terms of Service and Privacy Policy"
+}

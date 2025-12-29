@@ -1,0 +1,72 @@
+name: wink
+description: A global social app with 3D Soul-like discovery and AI Virtual Persons.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State management
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+
+  # Networking
+  dio: ^5.4.0
+
+  # Supabase
+  supabase_flutter: ^2.3.0
+
+  # Local storage
+  shared_preferences: ^2.2.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # UI utilities
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+
+  # Media
+  image_picker: ^1.0.7
+  video_player: ^2.8.2
+  record: ^5.0.4
+  just_audio: ^0.9.36
+  path_provider: ^2.1.2
+  share_plus: ^7.2.1
+  http: ^1.2.0
+
+  # Utils
+  intl: ^0.20.2
+  uuid: ^4.3.3
+  logger: ^2.0.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
