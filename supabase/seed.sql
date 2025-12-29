@@ -1,5 +1,5 @@
 -- ============================================
--- WINK (微刻) - Seed Data for Virtual Personas
+-- WINK (微客) - Seed Data for Virtual Personas
 -- ============================================
 
 -- Insert 10 initial AI personas with bilingual content

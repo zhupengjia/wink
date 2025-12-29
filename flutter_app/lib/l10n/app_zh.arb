@@ -1,6 +1,6 @@
 {
   "@@locale": "zh",
-  "appName": "微刻",
+  "appName": "微客",
   "discover": "发现",
   "chat": "聊天",
   "profile": "我的",
@@ -72,7 +72,7 @@
   "today": "今天",
   "yesterday": "昨天",
 
-  "welcomeTitle": "欢迎来到微刻",
+  "welcomeTitle": "欢迎来到微客",
   "welcomeSubtitle": "在星空中发现灵魂",
 
   "loginWithGoogle": "使用 Google 登录",

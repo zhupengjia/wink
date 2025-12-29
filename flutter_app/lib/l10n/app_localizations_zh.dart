@@ -9,7 +9,7 @@ class L10nZh extends L10n {
   L10nZh([String locale = 'zh']) : super(locale);
 
   @override
-  String get appName => '微刻';
+  String get appName => '微客';
 
   @override
   String get discover => '发现';
@@ -198,7 +198,7 @@ class L10nZh extends L10n {
   String get yesterday => '昨天';
 
   @override
-  String get welcomeTitle => '欢迎来到微刻';
+  String get welcomeTitle => '欢迎来到微客';
 
   @override
   String get welcomeSubtitle => '在星空中发现灵魂';

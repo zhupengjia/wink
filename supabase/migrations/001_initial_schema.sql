@@ -1,5 +1,5 @@
 -- ============================================
--- WINK (微刻) - Initial Database Schema
+-- WINK (微客) - Initial Database Schema
 -- ============================================
 
 -- Enable necessary extensions
